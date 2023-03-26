@@ -1,0 +1,12 @@
+# Sources
+
+## Python and HTML Packages and Resources
+### https://dashboard.cohere.ai/playground/generate
+### https://getbootstrap.com/docs/5.3/getting-started/introduction/ 
+### https://help.pythonanywhere.com/pages/ 
+### https://flask.palletsprojects.com/en/2.2.x/ 
+
+## Data Parsing for Virginia HoR Representatives
+### Representatives: https://www.congress.gov/members?q=%7B%22member-state%22%3A%22Virginia%22%7D  
+### Virginia Representatives: https://www.govtrack.us/congress/members/VA#representatives  
+### Congressional Districts by ZIP codde: https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.2020.html#entity  
