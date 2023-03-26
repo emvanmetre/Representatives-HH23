@@ -15,6 +15,24 @@ Currently, RepWrite is only functional for citizens of Virginia.
 RepWrite uses python, html, and css.
 
 
+## Directory
+RepWrite/
+| main.py
+| templates/
+  | about.html
+  | contact.html
+  | index.html
+  | representative.html
+| static/
+  | catherine.png
+  | emily.png
+  | elizabeth.png
+  | map.jpg
+  | R-Logo.png
+  | styles.css
+  | va_zips.csv
+  | writing.jpg
+
 ## Installation/Setup
 1. Create a new project in PyCharm. NOTE: you will need a virtual environment, venv.
 2. Download RepWrite.zip from the main branch of this repository.
@@ -28,7 +46,7 @@ RepWrite uses python, html, and css.
 - Change web pages using .html files in /templates
 
 
-##Credits
+## Credits
 ### https://dashboard.cohere.ai/playground/generate
 ### https://getbootstrap.com/docs/5.3/getting-started/introduction/ 
 ### https://help.pythonanywhere.com/pages/ 
