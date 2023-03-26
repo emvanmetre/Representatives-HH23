@@ -8,7 +8,7 @@ RepWrite is an email generator using AI. It helps residents to simply enter thei
 We created this project because we wanted to make it easier and more accessible for anyone to communicate with their representatives.
 
 ## Build Status
-RepWrite is currently under development. A demo is available at elizabethmvm.pythonanywhere.com
+RepWrite is currently under development. A demo is available at [elizabethmvm.pythonanywhere.com]   
 Currently, RepWrite is only functional for citizens of Virginia.
 
 ## Code Style
