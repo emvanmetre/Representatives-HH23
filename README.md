@@ -2,13 +2,13 @@
 Find and contact your representative based on your zipcode!
 
 ## RepWrite
-RepWrite is an email generator using AI. It helps residents to simply enter their ZIP code along with an issue of interest, then the AI — powered by (cohere)[cohere.ai] — writes and sends an email to the representative. 
+RepWrite is an email generator using AI. It helps residents to simply enter their ZIP code along with an issue of interest, then the AI — powered by cohere.ai — writes and sends an email to the representative. 
 
 ## Motivation
 We created this project because we wanted to make it easier and more accessible for anyone to communicate with their representatives.
 
 ## Build Status
-RepWrite is currently under development. A demo is available (here.)[elizabethmvm.pythonanywhere.com]
+RepWrite is currently under development. A demo is available at elizabethmvm.pythonanywhere.com
 Currently, RepWrite is only functional for citizens of Virginia.
 
 ## Code Style
